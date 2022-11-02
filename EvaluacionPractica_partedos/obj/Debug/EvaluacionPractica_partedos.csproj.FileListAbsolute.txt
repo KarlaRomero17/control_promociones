@@ -1,0 +1,8 @@
+C:\Users\kromero\source\repos\EvaluacionPractica_partedos\EvaluacionPractica_partedos\bin\Debug\EvaluacionPractica_partedos.exe.config
+C:\Users\kromero\source\repos\EvaluacionPractica_partedos\EvaluacionPractica_partedos\bin\Debug\EvaluacionPractica_partedos.exe
+C:\Users\kromero\source\repos\EvaluacionPractica_partedos\EvaluacionPractica_partedos\bin\Debug\EvaluacionPractica_partedos.pdb
+C:\Users\kromero\source\repos\EvaluacionPractica_partedos\EvaluacionPractica_partedos\obj\Debug\EvaluacionPractica_partedos.csproj.AssemblyReference.cache
+C:\Users\kromero\source\repos\EvaluacionPractica_partedos\EvaluacionPractica_partedos\obj\Debug\EvaluacionPractica_partedos.csproj.SuggestedBindingRedirects.cache
+C:\Users\kromero\source\repos\EvaluacionPractica_partedos\EvaluacionPractica_partedos\obj\Debug\EvaluacionPractica_partedos.csproj.CoreCompileInputs.cache
+C:\Users\kromero\source\repos\EvaluacionPractica_partedos\EvaluacionPractica_partedos\obj\Debug\EvaluacionPractica_partedos.exe
+C:\Users\kromero\source\repos\EvaluacionPractica_partedos\EvaluacionPractica_partedos\obj\Debug\EvaluacionPractica_partedos.pdb
